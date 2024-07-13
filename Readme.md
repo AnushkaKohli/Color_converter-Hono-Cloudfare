@@ -23,3 +23,8 @@ wrangler login
 ```bash
 wrangler deploy .\src\index.ts
 ```
+
+## To test
+
+Format: `/colorfamet/colorname`
+Example: `https://hono-color-converter.anushkakohli2021.workers.dev/rgb/red`
